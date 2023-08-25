@@ -1,0 +1,11 @@
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/repositories/BeerRepository.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/domain/Beer.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/DateMapper.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/BeerMapper.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/bootstrap/BeerLoader.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/SfgRestdocsExampleApplication.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/BeerController.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerDto.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerStyleEnum.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerPagedList.java
+/home/stefanini/Workspaces/java-workspace/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/MvcExceptionHandler.java
